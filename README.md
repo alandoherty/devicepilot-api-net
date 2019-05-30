@@ -33,8 +33,10 @@ Install-Package DevicePilot.Api
 Create an instance of the API client and configure your authentication token, you can find this on the API keys page of the platform.
 
 ```csharp
-ApiClient client = new ApiClient();
+ApiClient client = new ApiClient(Environment.GetEnvironmentVariable("DEVICEPILOT_TOKEN"));
 ```
+
+The client will automatically retry each request 3 times if a transient error occurs.
 
 ### Ingesting
 
