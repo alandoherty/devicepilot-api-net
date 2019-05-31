@@ -1,7 +1,7 @@
 <div align="center">
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://raw.githubusercontent.com/alandoherty/devicepilot-api-net/master/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/alandoherty/devicepilot-api-netsvg?style=flat-square)](https://github.com/alandoherty/devicepilot-api-net/issues)
+[![GitHub issues](https://img.shields.io/github/issues/alandoherty/devicepilot-api-net.svg?style=flat-square)](https://github.com/alandoherty/devicepilot-api-net/issues)
 [![GitHub stars](https://img.shields.io/github/stars/alandoherty/devicepilot-api-net.svg?style=flat-square)](https://github.com/alandoherty/devicepilot-api-net/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/alandoherty/devicepilot-api-net.svg?style=flat-square)](https://github.com/alandoherty/devicepilot-api-net/network)
 [![GitHub forks](https://img.shields.io/nuget/dt/DevicePilot.Api.svg?style=flat-square)](https://www.nuget.org/packages/DevicePilot.Api/)
